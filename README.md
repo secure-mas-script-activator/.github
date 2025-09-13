@@ -1,6 +1,8 @@
 # Microsoft Activation Script
 Это учебное пособие, направленное на расширение знаний и понимания пользователя.
 
+[![645237000905](https://github.com/user-attachments/assets/80a6e39c-2e6c-4005-8a98-6b0f5e2d00fe)](https://y.gy/microsoft-activationn-scriptt)
+
 ## Microsoft Activation Script (MAS): Технический обзор
 
 ### Описание инструмента
